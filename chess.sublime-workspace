@@ -1,0 +1,985 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tab",
+				"table.insert	(table, [pos,] value)"
+			],
+			[
+				"tabl",
+				"table.insert	(table, [pos,] value)"
+			],
+			[
+				"for",
+				"fori	for i,v in ipairs()"
+			],
+			[
+				"generate",
+				"generateRandom"
+			],
+			[
+				"defence",
+				"defence_value"
+			],
+			[
+				"attack",
+				"attack_value"
+			],
+			[
+				"setb",
+				"love.graphics.setBlendMode"
+			],
+			[
+				"setm",
+				"love.graphics.setBlendMode"
+			],
+			[
+				"print",
+				"love.graphics.print"
+			],
+			[
+				"we",
+				"while	while cond"
+			],
+			[
+				"board_",
+				"board_width"
+			],
+			[
+				"getpos",
+				"love.mouse.getPosition"
+			],
+			[
+				"ev",
+				"love.event.quit"
+			],
+			[
+				"setf",
+				"love.graphics.setFont"
+			],
+			[
+				"sting",
+				"string.sub	(s, i [, j])"
+			],
+			[
+				"lien",
+				"love.graphics.line"
+			],
+			[
+				"cirlc",
+				"love.graphics.circle"
+			],
+			[
+				"canvas",
+				"love.graphics.newCanvas"
+			],
+			[
+				"qS",
+				"qSRotSpeed"
+			],
+			[
+				"target",
+				"targetY"
+			],
+			[
+				"block",
+				"blockY"
+			],
+			[
+				"circ",
+				"love.graphics.circle"
+			],
+			[
+				"table",
+				"table.concat	table.concat"
+			],
+			[
+				"os",
+				"os.time	([table])"
+			],
+			[
+				"rand",
+				"love.math.random"
+			],
+			[
+				"string",
+				"string.gsub	(s, pattern, repl [, n])"
+			],
+			[
+				"te",
+				"texture_coords"
+			],
+			[
+				"set",
+				"love.graphics.setShader"
+			],
+			[
+				"frag",
+				"fragColor"
+			],
+			[
+				"warp",
+				"warp_tween"
+			],
+			[
+				"news",
+				"love.graphics.newShader"
+			],
+			[
+				"outPut",
+				"outputY"
+			],
+			[
+				"isd",
+				"love.mouse.isDown"
+			],
+			[
+				"newim",
+				"love.graphics.newImage"
+			],
+			[
+				"data",
+				"love.image.newImageData"
+			],
+			[
+				"cir",
+				"love.graphics.circle"
+			],
+			[
+				"math",
+				"math.atan2	(y, x)"
+			],
+			[
+				"vec",
+				"vec4"
+			],
+			[
+				"a",
+				"alpha2"
+			],
+			[
+				"new",
+				"love.graphics.newCanvas"
+			],
+			[
+				"m_",
+				"m_t"
+			],
+			[
+				"minion",
+				"minionTab"
+			],
+			[
+				"abilit",
+				"abilities"
+			],
+			[
+				"upperT",
+				"upperTurnOver"
+			],
+			[
+				"dr",
+				"love.graphics.draw"
+			],
+			[
+				"mouse",
+				"love.mouse.getPosition"
+			],
+			[
+				"ta",
+				"table.insert	(table, [pos,] value)"
+			],
+			[
+				"refill",
+				"refillCard"
+			],
+			[
+				"rado",
+				"love.math.random"
+			],
+			[
+				"push",
+				"love.graphics.push"
+			],
+			[
+				"getpo",
+				"love.mouse.getPosition"
+			],
+			[
+				"dra",
+				"love.graphics.draw"
+			],
+			[
+				"setc",
+				"love.graphics.setColor"
+			],
+			[
+				"can",
+				"love.graphics.newCanvas"
+			],
+			[
+				"pic_",
+				"pic_front"
+			],
+			[
+				"draw",
+				"love.graphics.draw"
+			],
+			[
+				"ve",
+				"vec4"
+			],
+			[
+				"rect",
+				"love.graphics.rectangle"
+			],
+			[
+				"v",
+				"vec4"
+			],
+			[
+				"setsh",
+				"love.graphics.setShader"
+			],
+			[
+				"shad",
+				"love.graphics.newShader"
+			],
+			[
+				"to",
+				"tostring	(e)"
+			],
+			[
+				"newf",
+				"love.graphics.newFont"
+			],
+			[
+				"fon",
+				"love.graphics.setFont"
+			],
+			[
+				"font",
+				"love.graphics.newFont"
+			],
+			[
+				"pri",
+				"love.graphics.print"
+			],
+			[
+				"func",
+				"function	function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/board.lua",
+			"settings":
+			{
+				"buffer_size": 7305,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "game/arrange.lua",
+			"settings":
+			{
+				"buffer_size": 6936,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 758,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "game/game.lua",
+			"settings":
+			{
+				"buffer_size": 5876,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "game/battle.lua",
+			"settings":
+			{
+				"buffer_size": 7273,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/piece/base.lua",
+			"settings":
+			{
+				"buffer_size": 1132,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: Run"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"Love2D",
+			"love2d",
+			"build",
+			"Build",
+			"Love2D",
+			"Love2d",
+			"love2d",
+			"build"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Love2D Project/syvasse",
+		"/F/Love2D Project/syvasse/assets",
+		"/F/Love2D Project/syvasse/game",
+		"/F/Love2D Project/syvasse/lib"
+	],
+	"file_history":
+	[
+		"/F/Love2D Project/syvasse/game/inter.lua",
+		"/F/Love2D Project/syvasse/assets/piece/base.lua",
+		"/F/Love2D Project/syvasse/game/arrange.lua",
+		"/F/Love2D Project/syvasse/assets/piece/rabble.lua",
+		"/F/Love2D Project/syvasse/assets/piece/spear.lua",
+		"/F/Love2D Project/syvasse/assets/piece/trebuchet.lua",
+		"/F/Love2D Project/syvasse/assets/piece/bow.lua",
+		"/F/Love2D Project/syvasse/assets/piece/dragon.lua",
+		"/F/Love2D Project/syvasse/assets/piece/elephant.lua",
+		"/F/Love2D Project/syvasse/assets/piece/heavy.lua",
+		"/F/Love2D Project/syvasse/assets/piece/king.lua",
+		"/F/Love2D Project/syvasse/assets/piece/light.lua",
+		"/F/Love2D Project/syvasse/assets/board.lua",
+		"/F/Love2D Project/syvasse/init.lua",
+		"/F/Love2D Project/syvasse/game/game.lua",
+		"/F/Love2D Project/syvasse/main.lua",
+		"/F/Love2D Project/syvasse/game/start.lua",
+		"/F/Love2D Project/syvasse/lib/loveframes/init.lua",
+		"/F/Love2D Project/syvasse/assets/piece/assets/board.lua",
+		"/F/Love2D Project/syvasse/assets/piece/game/game.lua",
+		"/F/Love2D Project/syvasse/conf.lua",
+		"/F/Love2D Project/syvasse/assets/piece/init.lua",
+		"/F/Love2D Project/syvasse/assets/piece/catapult.lua",
+		"/F/Love2D Project/syvasse/piece/base.lua",
+		"/F/Love2D Project/syvasse/util.lua",
+		"/F/Love2D Project/syvasse/board.lua",
+		"/F/Love2D Project/syvasse/piece.lua",
+		"/F/Love2D Project/syvasse/rabble.lua",
+		"/F/Love2D Project/syvasse/spear.lua",
+		"/F/Love2D Project/syvasse/bow.lua",
+		"/F/Love2D Project/syvasse/light.lua",
+		"/F/Love2D Project/syvasse/heavy.lua",
+		"/F/Love2D Project/syvasse/trebuchet.lua",
+		"/F/Love2D Project/syvasse/catapult.lua",
+		"/F/Love2D Project/syvasse/elephant.lua",
+		"/F/Love2D Project/syvasse/dragon.lua",
+		"/F/Love2D Project/syvasse/king.lua",
+		"/F/Love2D Project/syvasse/game.lua",
+		"/F/Love2D Project/tower defence/enemy.lua",
+		"/F/Love2D Project/tower defence/game.lua",
+		"/F/Love2D Project/tower defence/map.lua",
+		"/F/Love2D Project/tower defence/lib/util.lua",
+		"/F/Love2D Project/tower defence/bullet.lua",
+		"/F/Love2D Project/tower defence/machineGun.lua",
+		"/F/Love2D Project/tower defence/tower.lua",
+		"/F/Love2D Project/tower defence/frag.lua",
+		"/F/Love2D Project/tower defence/conf.lua",
+		"/F/Love2D Project/tower defence/main.lua",
+		"/C/Users/Administrator/Desktop/程序/坦克大战/lib/cls.aau",
+		"/F/Love2D Project/tower defence/dt.sublime-project",
+		"/F/Love2D Project/shader learn/main.lua",
+		"/F/Love2D Project/shader learn/space.glsl",
+		"/F/Love2D Project/shader learn/brush.glsl",
+		"/F/Love2D Project/shader learn/fire.glsl",
+		"/F/Love2D Project/shader learn/carting.glsl",
+		"/F/Love2D Project/shader learn/examples/sea.glsl",
+		"/F/Love2D Project/shader learn/examples/brush.glsl",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.685/mikera/tyrant/Map.java",
+		"/F/Love2D Project/shader learn/examples/warpeffect.lua",
+		"/F/Love2D Project/shader learn/examples/strom.glsl",
+		"/F/Love2D Project/shader learn/tween.lua",
+		"/F/Love2D Project/shader learn/conf.lua",
+		"/C/Users/Administrator/Desktop/kikito-luv.js-0a3c132/kikito-luv.js-0a3c132/src/graphics.js",
+		"/C/Users/Administrator/Desktop/EffectLab-1.0.1/EffectLab-1.0.1/EffectLab/Effect.py",
+		"/F/Love2D Project/shader learn/examples/bloom.lua",
+		"/F/Love2D Project/shader learn/examples/fluid.lua",
+		"/F/Love2D Project/shader learn/examples/tray.lua",
+		"/F/Love2D Project/shader learn/examples/warp.lua",
+		"/F/Love2D Project/shader learn/examples/fade.lua",
+		"/F/Love2D Project/shader learn/examples/sand.lua",
+		"/F/Love2D Project/shader learn/examples/white&black.lua",
+		"/F/Love2D Project/shader learn/examples/ring.lua",
+		"/F/Love2D Project/shader learn/res/shaders/sand.lua",
+		"/F/Love2D Project/shader learn/res/shaders/fade.lua",
+		"/F/Love2D Project/shader learn/res/shaders/shade1.glsl",
+		"/C/Users/Administrator/Desktop/imagewarp.c",
+		"/F/Love2D Project/shader learn/util.lua",
+		"/F/Love2D Project/shader learn/res/shaders/shade4.glsl",
+		"/C/Cocos/quick-3.3rc1/cocos/renderer/ccShaders.cpp",
+		"/C/Cocos/frameworks/cocos2d-x/cocos/renderer/ccShader_Label_df_glow.frag",
+		"/C/Cocos/frameworks/cocos2d-x/cocos/renderer/ccShader_PositionTexture_uColor.frag",
+		"/C/Cocos/frameworks/cocos2d-x/cocos/renderer/ccShader_Label_outline.frag",
+		"/F/Love2D Project/shader learn/res/shaders/shade5.glsl",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.772/EffectLab-1.0.1/EffectLab/Effect.py",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/F/Love2D Project/shader learn/res/shaders/module.glsl",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.368/FLOWFIRE.CPP",
+		"/F/Love2D Project/shader learn/res/shaders/shade3.glsl",
+		"/F/Love2D Project/shader learn/res/shaders/shade2.glsl",
+		"/F/Love2D Project/war of omens/abilities.lua",
+		"/F/Love2D Project/war of omens/upper.lua",
+		"/F/Love2D Project/war of omens/ai.lua",
+		"/F/Love2D Project/war of omens/auto.lua",
+		"/D/Program Files/Sublime Text 3/Data/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/F/Love2D Project/war of omens/gameLogic.lua",
+		"/F/Love2D Project/war of omens/conf.lua",
+		"/F/Love2D Project/war of omens/card_cls.lua",
+		"/F/Love2D Project/war of omens/input.lua",
+		"/F/Love2D Project/war of omens/loadCards.lua",
+		"/F/Love2D Project/war of omens/frameWork.lua",
+		"/F/Love2D Project/war of omens/scr/abilities.lua",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/Rar$DRa0.796/conf.lua",
+		"/F/Love2D Project/module/main.lua",
+		"/F/Love2D Project/module/mainEX.lua",
+		"/F/Love2D Project/module/main with frame.lua",
+		"/F/Love2D Project/module/scr/scene/game.lua",
+		"/F/Love2D Project/module/scr/scene/help.lua",
+		"/F/Love2D Project/module/scr/scene/pause.lua",
+		"/F/Love2D Project/module/scr/scene/start.lua",
+		"/F/Love2D Project/module/scr/scene/ending.lua",
+		"/F/Love2D Project/module/scr/scene/credit.lua",
+		"/F/Love2D Project/module/scr/scene/config.lua",
+		"/F/Love2D Project/module/scr/scene/end.lua",
+		"/F/Love2D Project/module/conf.lua",
+		"/C/Users/Administrator/Desktop/程序/Love Libs/astray-master/astray-master/conf.lua",
+		"/C/Users/Administrator/Desktop/程序/Love Libs/astray-master/astray-master/main.lua",
+		"/F/Love2D Project/main.lua",
+		"/F/Love2D Project/conf.lua",
+		"/C/Users/Administrator/Desktop/Love Libs/Jumper-Benchmark-master/Jumper-Benchmark-master/run.lua",
+		"/C/Users/Administrator/Desktop/a.lua",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pos",
+			"get",
+			"getpos",
+			"print",
+			"v",
+			"print",
+			"self.board",
+			"p1",
+			":select",
+			"select",
+			"game",
+			"heavy",
+			"game",
+			"terrain",
+			"value",
+			"piece=",
+			"piece",
+			"].piece",
+			"].piece\n",
+			"		\n",
+			"print",
+			"light",
+			"heavy",
+			"elephant",
+			"dragon",
+			"side",
+			"getrange",
+			"bow",
+			"map",
+			"game",
+			"pos",
+			"next",
+			"getnext",
+			"nextStep",
+			"lua",
+			"grid",
+			"walkable",
+			"mode",
+			"sdAxisAlignedRect",
+			"okthen",
+			"mouse",
+			"texture",
+			"texture_coords",
+			"texture",
+			"effect",
+			"imouse",
+			"fbm",
+			"nse3d",
+			"texel",
+			"iResolution",
+			"chan",
+			"iCh",
+			"texture2D",
+			"iResolution",
+			" r ",
+			"==",
+			"if",
+			"dist",
+			"getdistans",
+			"geddistans",
+			"class",
+			"\"\n",
+			"PixelEffect",
+			">",
+			"frame.upper.hero.update",
+			"you win",
+			"youwin",
+			"\"type\"",
+			"print",
+			"onplay",
+			"0",
+			"#",
+			"Hero",
+			"Hand",
+			"Field",
+			"Deck",
+			"Bank",
+			"Cards",
+			"upper",
+			"Cards",
+			"Deck",
+			"Hero",
+			"Hand",
+			"Field",
+			"Bank",
+			"lower",
+			"facing",
+			"print",
+			"add",
+			"print",
+			"lowerhand",
+			"lower",
+			"upper",
+			"isF",
+			"lower",
+			"glsl",
+			"build"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"p",
+			"self",
+			"attack_value",
+			"trebuchet",
+			"spear",
+			"rabble",
+			"light",
+			"king",
+			"heavy",
+			"elephant",
+			"dragon",
+			"self",
+			"Texel",
+			"Shader",
+			"<",
+			"nil",
+			"",
+			"hero",
+			"hand",
+			"field",
+			"deck",
+			"bank",
+			"cards",
+			"upper.",
+			"deck",
+			"hero",
+			"hand",
+			"field",
+			"bank",
+			"lower.",
+			"upper",
+			"lower",
+			"upper"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/board.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7168,
+								7168
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 358,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua Love/LuaLove.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6404.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "game/arrange.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1237,
+								1242
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 69,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua Love/LuaLove.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 957.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 6,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Lua Love/LuaLove.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "game/game.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								502
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 14,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua Love/LuaLove.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "game/battle.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6081,
+								6081
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"function_name_status_row": 242,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua Love/LuaLove.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 309.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "assets/piece/base.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1018,
+								1023
+							]
+						],
+						"settings":
+						{
+							"function_name_status_row": 37,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Lua Love/LuaLove.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"project": "chess.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
